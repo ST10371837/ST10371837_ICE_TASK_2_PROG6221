@@ -1,0 +1,16 @@
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\bin\Debug\net8.0-windows\ICE TASK 2 PROG6221.exe
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\bin\Debug\net8.0-windows\ICE TASK 2 PROG6221.deps.json
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\bin\Debug\net8.0-windows\ICE TASK 2 PROG6221.runtimeconfig.json
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\bin\Debug\net8.0-windows\ICE TASK 2 PROG6221.dll
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\bin\Debug\net8.0-windows\ICE TASK 2 PROG6221.pdb
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE_TASK_2_PROG6221.Form1.resources
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.csproj.GenerateResource.cache
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.AssemblyInfoInputs.cache
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.AssemblyInfo.cs
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.csproj.CoreCompileInputs.cache
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.dll
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\refint\ICE TASK 2 PROG6221.dll
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.pdb
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ICE TASK 2 PROG6221.genruntimeconfig.cache
+C:\Users\mikyl\OneDrive\Documents\BCAD\PROG\ICE TASK 2 PROG6221\obj\Debug\net8.0-windows\ref\ICE TASK 2 PROG6221.dll
